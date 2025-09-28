@@ -1,16 +1,33 @@
 ## Hi there 👋
+**Computer Science Student | AI & ML Enthusiast | Aspiring Googler**
 
-<!--
-**yashasveesingh078/yashasveesingh078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning:
+- C++, Python, Web Development
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
 
-Here are some ideas to get you started:
+📚 Studying at **Newton School of Technology** (Sonipat, Delhi NCR)  
+🎯 Goal: Work at **Google India**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://i.giphy.com/JRUtn0sCuAn0bzfc4C.webp" width="400">
+</p>
+
+## ⚡ Skills
+- Programming: C++, Python, JavaScript
+- Web: HTML, CSS, React.js
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📈 GitHub Stats
+![Yashasvee's GitHub stats](https://github.com/yashasveesingh078)
+
+---
+
+
+
+---
+⭐️ From Yashasvee
